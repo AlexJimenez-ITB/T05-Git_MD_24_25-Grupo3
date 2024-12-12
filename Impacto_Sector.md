@@ -1,1 +1,0 @@
-# Impacto en el Sector
