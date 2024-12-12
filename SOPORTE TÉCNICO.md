@@ -12,6 +12,8 @@
 ## 1. Aplicaciones de la IA
 Zendesk AI se utiliza en soporte técnico para hacer más eficiente la atención al cliente. Por ejemplo, puede responder preguntas frecuentes de forma automática, como ayudar a un usuario a cambiar su contraseña. También organiza los problemas (tickets) según su importancia y ofrece sugerencias a los técnicos para resolver casos más rápido. Además, funciona las 24 horas, lo que mejora la experiencia del usuario al no tener que esperar horarios de oficina.
 
+![Imagen de Zendesk AI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cxtoday.com%2Fcontact-centre%2Fzendesk-adds-new-ai-capabilities-to-its-portfolio%2F&psig=AOvVaw1NFtz6LGVQ3F0ax5wxxYyE&ust=1734082360813000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj-w7b2oYoDFQAAAAAdAAAAABAK)
+
 ## 2. Impacto al sector
 Esta IA ha cambiado mucho el sector del soporte técnico. Las empresas pueden atender más casos con menos recursos humanos, lo que ahorra tiempo y dinero. Al mismo tiempo, los técnicos se enfocan en problemas más complejos porque las tareas repetitivas las hace la IA. También mejora la satisfacción de los clientes al recibir ayuda inmediata y precisa en cualquier momento.  
 Sin embargo, un impacto negativo puede ser la disminución de ciertos empleos básicos, ya que muchas tareas las hace la tecnología.
@@ -21,7 +23,6 @@ El uso de Zendesk AI requiere servidores y centros de datos que consumen mucha e
 
 ## 4. Propuestas para minimizar los referidos impactos
 Para reducir los efectos negativos, sería importante que Zendesk y las empresas que usan esta IA apuesten por energías renovables, como la solar o la eólica, para alimentar sus servidores. También se pueden optimizar los procesos de la IA para que consuman menos energía. Es necesario construir centros de datos más sostenibles con sistemas de enfriamiento eficientes y fomentar la reutilización de equipos para disminuir los residuos electrónicos.
-
 
 
 
