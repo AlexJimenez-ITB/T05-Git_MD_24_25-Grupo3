@@ -1,6 +1,6 @@
 # Indice
 ## Puntos del Indice
-1. [IAs] () 
+1. [IAs] (IAs.md) 
 2. [Para que sirven y aplicaciones de la IA] ()
 3. [Impacto en el sector] ()
 4. [Impacto ambiental] ()
