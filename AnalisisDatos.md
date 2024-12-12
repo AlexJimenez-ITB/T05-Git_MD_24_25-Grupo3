@@ -1,3 +1,12 @@
+# Índice
+
+1. [Análisis de Datos](#análisis-de-datos)
+2. [Impacto al sector](#impacto-al-sector)
+3. [Impacto ambiental](#impacto-ambiental)
+4. [Propuestas para minimizar los impactos](#propuestas-para-minimizar-los-impactos)
+
+---
+
 # Análisis de Datos
 
 ## 1. Aplicaciones de la IA
@@ -39,4 +48,4 @@ El uso de cualquier IA en general requiere de:
 - Usar fuentes de **energía renovable** en centros de datos.
 - **Optimizar algoritmos** para reducir el consumo energético.
 - Implementar **reciclaje de hardware** obsoleto.
-- Reutilizar la **energía térmica** generada por los servidores.
+- Reutilizar
