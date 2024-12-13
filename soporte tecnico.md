@@ -1,4 +1,3 @@
-
 # SOPORTE TÉCNICO (Zendesk AI) Ibrahim
 
 ## Índice
@@ -23,7 +22,3 @@ El uso de Zendesk AI requiere servidores y centros de datos que consumen mucha e
 
 ## 4. Propuestas para minimizar los referidos impactos
 Para reducir los efectos negativos, sería importante que Zendesk y las empresas que usan esta IA apuesten por energías renovables, como la solar o la eólica, para alimentar sus servidores. También se pueden optimizar los procesos de la IA para que consuman menos energía. Es necesario construir centros de datos más sostenibles con sistemas de enfriamiento eficientes y fomentar la reutilización de equipos para disminuir los residuos electrónicos.
-
-
-
-
