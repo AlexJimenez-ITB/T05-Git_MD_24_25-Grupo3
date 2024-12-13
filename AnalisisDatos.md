@@ -42,7 +42,7 @@ La inteligencia artificial ha transformado sectores como:
 ## 3. Impacto ambiental
 
 <div style="text-align: center;">
-  <img src="/workspaces/T05-Git_MD_24_25-Grupo3/img/imp_Amb.jpeg" style="width: 30%, height: 30%">
+  <img src="https://github.com/AlexJimenez-ITB/T05-Git_MD_24_25-Grupo3/blob/main/img/imp_Amb.jpeg" style="width: 30%, height: 30%">
 </div>
 
 El uso de cualquier IA en general requiere de:
