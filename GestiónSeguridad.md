@@ -9,7 +9,7 @@
 
 ### **Aplicaciones de la Inteligencia Artificial (IA)**
 
-La IA de Darktrace pude aplicarse en diversos ámbitos, como:
+La IA de Darktrace puede aplicarse en diversos ámbitos, como:
 
 - **Detección de amenazas en tiempo real**: Identificación rápida de actividades sospechosas o maliciosas.
 - **Respuestas autónomas a incidentes**: Capacidad de actuar sin intervención humana para mitigar riesgos.
