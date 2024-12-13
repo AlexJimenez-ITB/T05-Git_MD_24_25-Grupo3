@@ -13,7 +13,6 @@
 ## 1. Aplicaciones de la IA
 Zendesk AI se utiliza en soporte técnico para hacer más eficiente la atención al cliente. Por ejemplo, puede responder preguntas frecuentes de forma automática, como ayudar a un usuario a cambiar su contraseña. También organiza los problemas (tickets) según su importancia y ofrece sugerencias a los técnicos para resolver casos más rápido. Además, funciona las 24 horas, lo que mejora la experiencia del usuario al no tener que esperar horarios de oficina.
 
-![Imagen de Zendesk AI](https://example.com/imagen.jpg)
 
 ## 2. Impacto al sector
 Esta IA ha cambiado mucho el sector del soporte técnico. Las empresas pueden atender más casos con menos recursos humanos, lo que ahorra tiempo y dinero. Al mismo tiempo, los técnicos se enfocan en problemas más complejos porque las tareas repetitivas las hace la IA. También mejora la satisfacción de los clientes al recibir ayuda inmediata y precisa en cualquier momento.  
