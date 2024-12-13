@@ -54,7 +54,7 @@ Aunque la IA trae grandes beneficios, también presenta desafíos ambientales co
 
 1.   *Darktrace wikipedia*. [https://en.wikipedia.org/wiki/Darktrace](https://en.wikipedia.org/wiki/Darktrace)
 
-2.   *Darktrace (pàgina oficial)*. [https://darktrace.com/es/cyber-ai](https://darktrace.com/es/cyber-ai)
+2.   *Darktrace (página oficial)*. [https://darktrace.com/es/cyber-ai](https://darktrace.com/es/cyber-ai)
 
 3.   *Darktrace devoteam*. [https://www.devoteam.com/expert-view/darktrace-future-of-cyber-security/](https://www.devoteam.com/expert-view/darktrace-future-of-cyber-security/)
 
