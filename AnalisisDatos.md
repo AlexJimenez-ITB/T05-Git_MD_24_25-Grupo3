@@ -9,9 +9,14 @@
 
 # Análisis de Datos
 
+
 ## 1. Aplicaciones de la IA
 
 El análisis de datos con IA consiste en utilizar la inteligencia artificial para examinar grandes volúmenes de datos, identificar y simplificar patrones, y obtener estadísticas relevantes que ayuden a los analistas de datos en su trabajo.
+
+<div style="text-align: center;">
+  <img src="https://github.com/AlexJimenez-ITB/T05-Git_MD_24_25-Grupo3/blob/main/img/ai's2.png" style="width: 30%, height: 30%">
+</div>
 
 ### Ejemplos de aplicaciones:
 - **Google Assistant**: Asistente virtual para realizar tareas y obtener información.
@@ -36,6 +41,10 @@ La inteligencia artificial ha transformado sectores como:
 
 ## 3. Impacto ambiental
 
+<div style="text-align: center;">
+  <img src="https://github.com/AlexJimenez-ITB/T05-Git_MD_24_25-Grupo3/blob/main/img/imp_Amb.jpeg" style="width: 30%, height: 30%">
+</div>
+
 El uso de cualquier IA en general requiere de:
 - **Gran consumo de energía**: Debido a los centros de datos, lo que contribuye a emisiones de CO₂.
 - **Generación de residuos electrónicos**: El hardware suele quedar obsoleto rápidamente, lo que implica:
@@ -49,3 +58,35 @@ El uso de cualquier IA en general requiere de:
 - **Optimizar algoritmos** para reducir el consumo energético.
 - Implementar **reciclaje de hardware** obsoleto.
 - Reutilizar
+
+---
+
+### Bibliografia
+<small>
+
+> **Google AI** - Información sobre Google Assistant y DeepMind.  
+> Fuente: [https://ai.google](https://ai.google)  
+
+> **IBM Watson** - Uso de IA para análisis de datos en diversos sectores.  
+> Fuente: [https://www.ibm.com/watson](https://www.ibm.com/watson)  
+
+> **Tesla Autopilot** - IA en sistemas de conducción autónoma.  
+> Fuente: [https://www.tesla.com/autopilot](https://www.tesla.com/autopilot)  
+
+> **Amazon Alexa** - IA en asistentes inteligentes para el hogar.  
+> Fuente: [https://developer.amazon.com/alexa](https://developer.amazon.com/alexa)  
+
+> **Apple Siri** - Asistentes virtuales y automatización.  
+> Fuente: [https://www.apple.com/siri](https://www.apple.com/siri)  
+
+> **OpenAI** - ChatGPT y aplicaciones de generación de texto.  
+> Fuente: [https://openai.com/chatgpt](https://openai.com/chatgpt)  
+
+> **Impacto Ambiental de la IA** - Estudios sobre consumo energético y residuos electrónicos generados por centros de datos y hardware.  
+> Fuentes:  
+> - [https://datacenters.lbl.gov](https://datacenters.lbl.gov)  
+> - [https://www.iea.org/reports/data-centres-and-data-transmission-networks](https://www.iea.org/reports/data-centres-and-data-transmission-networks)  
+
+> **Impacto de la IA en la salud y empresas** - Mejora de diagnósticos y personalización de tratamientos gracias al análisis de datos.  
+> Fuente: [https://www.healthit.gov](https://www.healthit.gov)
+</small>  
