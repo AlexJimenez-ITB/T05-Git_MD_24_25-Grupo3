@@ -15,7 +15,7 @@
 El análisis de datos con IA consiste en utilizar la inteligencia artificial para examinar grandes volúmenes de datos, identificar y simplificar patrones, y obtener estadísticas relevantes que ayuden a los analistas de datos en su trabajo.
 
 <div style="text-align: center;">
-  <img src="/workspaces/T05-Git_MD_24_25-Grupo3/img/ai's2.png" style="width: 30%, height: 30%">
+  <img src="https://github.com/AlexJimenez-ITB/T05-Git_MD_24_25-Grupo3/blob/main/img/ai's2.png" style="width: 30%, height: 30%">
 </div>
 
 ### Ejemplos de aplicaciones:
