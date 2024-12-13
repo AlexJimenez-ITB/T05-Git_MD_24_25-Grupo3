@@ -6,10 +6,10 @@
 4. [Propuestas para minimizar los impactos](#propuestas-para-minimizar-los-referidos-impactos)
 
 # **Gestión de la Seguridad con Darktrace IA**
-
+   ![Logo](https://media.licdn.com/dms/image/v2/C5612AQGT7o25apKSaQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1585896651407?e=2147483647&v=beta&t=DrAO1g6SrQx6frLIvKNrypy5ucn0vykFWg0tB-86VjQ)
 ### **Aplicaciones de la Inteligencia Artificial (IA)**
 
-La IA de Darktrace puede aplicarse en diversos ámbitos, como:
+La IA de Darktrace pude aplicarse en diversos ámbitos, como:
 
 - **Detección de amenazas en tiempo real**: Identificación rápida de actividades sospechosas o maliciosas.
 - **Respuestas autónomas a incidentes**: Capacidad de actuar sin intervención humana para mitigar riesgos.
@@ -49,4 +49,15 @@ Aunque la IA trae grandes beneficios, también presenta desafíos ambientales co
 
 4. **Compensación de carbono**: 
    - Inversión en **iniciativas de compensación de carbono**, como proyectos de reforestación o energías limpias, para equilibrar las emisiones generadas por el uso de tecnologías de IA.
+
+### **Webgrafía**
+
+1.   *Darktrace wikipedia*. [https://en.wikipedia.org/wiki/Darktrace](https://en.wikipedia.org/wiki/Darktrace)
+
+2.   *Darktrace (página oficial)*. [https://darktrace.com/es/cyber-ai](https://darktrace.com/es/cyber-ai)
+
+3.   *Darktrace devoteam*. [https://www.devoteam.com/expert-view/darktrace-future-of-cyber-security/](https://www.devoteam.com/expert-view/darktrace-future-of-cyber-security/)
+
+3.   *Darktrace inttrust*. [https://www.inttrust.gr/darktrace-cyber-ai-security/](https://www.inttrust.gr/darktrace-cyber-ai-security/)
+
 ---
