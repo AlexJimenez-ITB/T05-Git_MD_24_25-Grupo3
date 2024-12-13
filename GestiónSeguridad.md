@@ -9,7 +9,7 @@
 
 ### **Aplicaciones de la Inteligencia Artificial (IA)**
 
-La IA de Darktrace se aplica de manera avanzada en diversos ámbitos, como:
+La IA de Darktrace pude aplicarse en diversos ámbitos, como:
 
 - **Detección de amenazas en tiempo real**: Identificación rápida de actividades sospechosas o maliciosas.
 - **Respuestas autónomas a incidentes**: Capacidad de actuar sin intervención humana para mitigar riesgos.
@@ -22,10 +22,10 @@ La IA de Darktrace se aplica de manera avanzada en diversos ámbitos, como:
 
 La implementación de esta IA genera mejoras significativas en la **detección y respuesta a amenazas**, así como en la **automatización de procesos**, lo que reduce la intervención humana y permite:
 
-- **Adaptación continua**: La IA se ajusta y aprende de manera autónoma, mejorando constantemente.
-- **Velocidad superior a la humana**: Detecta y responde a amenazas mucho más rápido que los operadores humanos.
+- **La adaptación continua a amenazas emergentes**: La IA se ajusta y aprende de manera autónoma, mejorando constantemente.
+- **Una velocidad muy superior a la humana**: Detecta y responde a amenazas mucho más rápido que las personas.
   
-Estos avances implican un cambio en el modelo de negocio, donde las organizaciones pueden confiar en sistemas inteligentes para gestionar la seguridad de forma más eficiente y en tiempo real.
+Estos avances implican un cambio en el modelo de negocio, donde las organizaciones pueden confiar en sistemas inteligentes para gestionar la seguridad de forma más eficiente y en tiempo real, además de reducir gastos.
 
 ### **Impacto Ambiental**
 
@@ -49,3 +49,4 @@ Aunque la IA trae grandes beneficios, también presenta desafíos ambientales co
 
 4. **Compensación de carbono**: 
    - Inversión en **iniciativas de compensación de carbono**, como proyectos de reforestación o energías limpias, para equilibrar las emisiones generadas por el uso de tecnologías de IA.
+---
